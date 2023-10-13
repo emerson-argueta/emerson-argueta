@@ -1,7 +1,7 @@
 ### Hello, I'm Emerson.
 - I enjoy building sites
 and applications for the web.
-- I strive to be a clean coder.
+- I strive to write good code.
 
 <!--
 **emerson-argueta/emerson-argueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
